@@ -1,7 +1,7 @@
 # Counter Strike Global Offensive Case Simulator
 
 This is a old React Native project I contributed in a school project. The goal was to simulator a slot machine based attraction based off the popular video game Counter Strike Global Offensive.
-We used a public api to store data locally. We then used a simple algorithm to determine what random gun skin should the player get. Afterwards, we, used a random number generator to determine the quality of that skin.
+We used a public api to store data locally. We then used a simple algorithm to determine what random gun skin should the player get. Afterwards, we used a random number generator to determine the quality of that skin.
 
 The first algorithm used a random number and used a random number interval to determine a rarity. For example, if the number is between 99.1 - 100 then the player gets the Covert skin(rarest skin type).
 
