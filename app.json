@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "csgoSimulator",
-    "slug": "csgoSimulator",
+    "slug": "csgo-case-simulator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4c4aa53f-691d-4d23-842e-6998fd92d770"
+      }
+    },
+    "owner": "albertolanderos"
   }
 }
